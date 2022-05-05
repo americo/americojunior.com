@@ -103,7 +103,7 @@ export default {
 
     // About Secton --------------
     aboutParaOne: "I am Américo Júnior, A young African passionate about technology and information security, I started studying programming and hacking at the age of 14, and today I work as an ethical hacker helping to make the internet a safe place.",
-    aboutParaTwo: "I have experience in application security testing, bug bounty hunting, web application development, and also decentralized applications (DApps) on web3. Last year I taught web hacking to over 1000 people through The Bug Hunter.",
+    aboutParaTwo: "I have experience in application security testing, bug bounty hunting, web application development, and also decentralized applications development (DApps) on web3. Last year I taught web hacking to over 1000 people through The Bug Hunter.",
     aboutParaThree: "My mission is to make the internet safe and take the knowledge I've been acquiring to all corners of the world, from the upper classes to the lower classes.",
     aboutImage: "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 
